@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/5T/MP/OnePlus5THydrogen_43_OTA_064_all_2009080056_338a836209c54a7e.zip
+  ROM_URL: https://otafsg1.h2os.com/patch/amazone2/GLO/OnePlus7TOxygen/OnePlus7TOxygen_13.W.23_GLO_0230_2102261720/OnePlus7TOxygen_13.W.23_OTA_0230_all_2102261720_86687b22.zip
   ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
